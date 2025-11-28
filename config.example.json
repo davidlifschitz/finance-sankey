@@ -1,0 +1,29 @@
+{
+  "bank_imports": {
+    "source": "Your Bank Name",
+    "format": "CSV/Excel",
+    "fields": [
+      "Date",
+      "Description",
+      "Amount"
+    ]
+  },
+  "expense_categories": {
+    "food": {
+      "budget": 500,
+      "actual": 450
+    },
+    "transport": {
+      "budget": 200,
+      "actual": 180
+    },
+    "entertainment": {
+      "budget": 300,
+      "actual": 270
+    },
+    "utilities": {
+      "budget": 150,
+      "actual": 140
+    }
+  }
+}
