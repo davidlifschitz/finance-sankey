@@ -1,0 +1,10 @@
+# Requirements for Finance Sankey Project
+
+# Python packages for CSV/PDF parsing, data analysis, and visualization
+
+pandas
+numpy
+matplotlib
+plotly
+PyPDF2
+openpyxl
